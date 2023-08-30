@@ -1,0 +1,8 @@
+/ransac_param/param:
+  ros__parameters:
+    point_topic: "/ransac/point_data"
+    success_probability: 0.99
+    outlier_ratio: 0.3
+    subset_size: 3
+    threshold: 0.2
+    iteration: 0
